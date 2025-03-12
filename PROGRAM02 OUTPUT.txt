@@ -1,0 +1,32 @@
+INTEGER
+Value of a = 5
+Value of b = 5
+Value of c = 5
+DOUBLE
+Value of x = 5.0
+Value of y = 5.0
+Value of z = 5.0
+BYTE
+Value of x1 = 5
+Value of y1 = 5
+Value of z1 = 5
+CHARACTER
+Value of x2 = a
+Value of y2 = a
+Value of z2 = a
+BOOLEAN
+Value of x3= true
+Value of y3 = true
+Value of z3 = true
+FLOAT
+Value of x4 = 5.0
+Value of y6 = 5.0
+Value of z6 = 5.0
+LONG
+Value of x5 = 456
+Value of y5 = 456
+Value of z5 = 456
+SHORT
+Value of x6 = 456
+Value of y6 = 456
+Value of z6 = 456

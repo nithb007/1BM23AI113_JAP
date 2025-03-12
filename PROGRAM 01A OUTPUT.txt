@@ -1,0 +1,20 @@
+PROGRAM 01A OUTPUT:
+
+GYM MEMBERSHIP MANAGEMENT PROGRAM
+Enter customer name: nitheesh
+Enter age: 19
+Enter membership status (Active/Inactive): active
+Enter membership duration (in months): 3
+
+CUSTOMER DETAILS:
+Customer Name : nitheesh
+Customer Age: 19
+Membership status: active
+Membership duration: 3 months
+Total Membership fee: 3000.0
+Process finished with exit code 0
+
+
+
+
+

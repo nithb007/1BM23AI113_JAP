@@ -1,0 +1,17 @@
+PROGRAM 02 OUTPUT
+INTEGER 
+value of a 5
+value of b 5
+value of c 5
+CHARACTER 
+value of x1 c
+value of x2 c
+value of x3 c
+BYTE 
+value of p 5
+value of q 5
+value of r 5
+DOUBLE 
+value of p1 5.0
+value of q1 5.0
+value of r1 5.0

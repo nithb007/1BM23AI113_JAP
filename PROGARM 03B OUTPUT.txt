@@ -1,0 +1,11 @@
+PROGARM 03B OUTPUT
+
+The capacity of the stringbuffer is 16
+The capacity of the stringbuffer after initialization is  21
+enter the string 
+java
+after reversing the string  avaj
+after converting to uppercase  AVAJ
+enter the string to concatenate:
+programming
+after concatenation  AVAJprogramming

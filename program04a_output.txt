@@ -1,0 +1,9 @@
+program 04a output
+
+Is monday a working day?true
+Is tuesday a working day?true
+Is wednesday a working day?true
+Is thursday a working day?true
+Is friday a working day?true
+Is saturday a working day?false
+Is sunday a working day?false

@@ -1,0 +1,29 @@
+program04b output
+
+Enter Name of student 1:
+nitheesh
+Enter Marks of student 1:
+99
+nitheesh has scored a total of: 99
+Enter Name of student 2:
+pavan
+Enter Marks of student 2:
+90
+pavan has scored a total of: 90
+Enter Name of student 3:
+samvith
+Enter Marks of student 3:
+90
+samvith has scored a total of: 90
+Enter Name of student 4:
+likith
+Enter Marks of student 4:
+89
+likith has scored a total of: 89
+Enter Name of student 5:
+kishan
+Enter Marks of student 5:
+80
+kishan has scored a total of: 80
+The student with the highest marks is nitheesh with 99 marks.
+The total sum of marks for all students is: 448

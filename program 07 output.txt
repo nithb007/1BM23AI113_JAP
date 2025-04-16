@@ -1,0 +1,16 @@
+program 07 output
+
+Inventory:
+Name: NICIP, Price: 100.0, Category: COLD AND FLU
+Name: CILACARTI, Price: 50.0, Category: BLOOD PRESSURE REGULATOR
+Name: DOLO 650, Price: 100.0, Category: FEVER-REDUCING
+Inventory:
+Name: NICIP, Price: 100.0, Category: COLD AND FLU
+Name: CILACARTI, Price: 50.0, Category: BLOOD PRESSURE REGULATOR
+Name: DOLO 650, Price: 100.0, Category: FEVER-REDUCING
+Inventory:
+Name: NICIP, Price: 100.0, Category: COLD AND FLU
+Name: CILACARTI, Price: 50.0, Category: BLOOD PRESSURE REGULATOR
+Name: DOLO 650, Price: 100.0, Category: FEVER-REDUCING
+
+Process finished with exit code 0

@@ -1,0 +1,11 @@
+program 06 output
+
+
+the elements in the queue are=
+10
+20
+30
+null
+the dequeued element is : 10
+
+Process finished with exit code 0
